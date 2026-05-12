@@ -25,4 +25,6 @@ Optimization models for bus bridging during rail disruptions.
 - Transport Systems
 - Smart Mobility
 - Industrial Optimization
+## GitHub Stats
 
+![Sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadaf&show_icons=true)
