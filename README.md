@@ -1,5 +1,5 @@
 # Hi, I'm Sadaf 👋
-
+![Banner](banner.png)
 ## MSc in Optimization
 University of L'Aquila   
 
