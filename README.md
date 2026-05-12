@@ -15,7 +15,6 @@ I specialize in mathematical optimization applied to transport systems, with a f
 - OR-Tools
 - Gurobi
 - Pyomo
-- MATLAB
 - Git
 
 ## Current Research
