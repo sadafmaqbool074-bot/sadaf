@@ -8,20 +8,14 @@
 ![Pyomo](https://img.shields.io/badge/Pyomo-red?style=for-the-badge)
 
 ![Optimization](https://img.shields.io/badge/Operations-Research-purple?style=for-the-badge)
-## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafmaqbool074-bot&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafmaqbool074-bot&layout=compact&theme=tokyonight)
 # Hi, I'm Sadaf 👋
 
 🎓 MSc in Optimization and Mathematical Modelling  
 🚆 Focused on Transport Systems and Operations Research  
 📍 University of L'Aquila & University of Hamburg 
 
----
-
-# 🚀 About Me
+--
 
 I am passionate about solving real-world industrial problems using:
 
@@ -33,7 +27,7 @@ I am passionate about solving real-world industrial problems using:
 
 ---
 
-# 🛠 Skills
+# Skills
 
 ## Languages
 - Python
@@ -54,24 +48,24 @@ I am passionate about solving real-world industrial problems using:
 
 # 📂 Projects
 
-## 🚆 Bus Bridging Optimization
+##  Bus Bridging Optimization
 Optimization model for railway disruption management using MILP.
 
-## 👩‍⚕️ Nurse Scheduling
+##  Nurse Scheduling
 Built a scheduling system using OR-Tools CP-SAT.
 
-## 📊 Transport Systems Analysis
+##  Transport Systems Analysis
 Worked on optimization problems related to transportation systems.
 
 ---
 
-# 📈 GitHub Stats
+#  GitHub Stats
 
 ![Sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafmaqbool074-bot&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🌍 Connect With Me
+#  Connect With Me
 
 
 - Email: sadafmaqbool074@gmail.com
