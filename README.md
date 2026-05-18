@@ -1,4 +1,18 @@
 ![Banner](banner.png)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+![OR-Tools](https://img.shields.io/badge/OR--Tools-green?style=for-the-badge)
+
+![Gurobi](https://img.shields.io/badge/Gurobi-orange?style=for-the-badge)
+
+![Pyomo](https://img.shields.io/badge/Pyomo-red?style=for-the-badge)
+
+![Optimization](https://img.shields.io/badge/Operations-Research-purple?style=for-the-badge)
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafmaqbool074-bot&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadafmaqbool074-bot&layout=compact&theme=tokyonight)
 # Hi, I'm Sadaf 👋
 
 🎓 MSc in Optimization and Mathematical Modelling  
