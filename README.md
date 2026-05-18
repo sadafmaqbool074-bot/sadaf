@@ -1,28 +1,65 @@
-# Hi, I'm Sadaf 👋
 ![Banner](banner.png)
-## MSc in Optimization
-University of L'Aquila   
+# Hi, I'm Sadaf 👋
 
+🎓 MSc in Optimization and Mathematical Modelling  
+🚆 Focused on Transport Systems and Operations Research  
+📍 University of L'Aquila & University of Hamburg 
 
-I specialize in mathematical optimization applied to transport systems, with a focus on:
+---
+
+# 🚀 About Me
+
+I am passionate about solving real-world industrial problems using:
+
+- Mathematical Optimization
+- Operations Research
 - Scheduling
 - Routing
-- Disruption management
-- Mixed-Integer Linear Programming (MILP)
+- Python Programming
 
-## Technical Skills
+---
+
+# 🛠 Skills
+
+## Languages
 - Python
+- Matlab
+
+## Optimization Tools
 - OR-Tools
 - Gurobi
 - Pyomo
-- Git
 
-## Current Research
-Optimization models for bus bridging during rail disruptions.
+## Areas
+- Scheduling
+- Routing
+- Transport Optimization
+- Mathematical Modelling
 
-## Interests
-- Operations Research
-- Transport Systems
-- Smart Mobility
-- Industrial Optimization
+---
+
+# 📂 Projects
+
+## 🚆 Bus Bridging Optimization
+Optimization model for railway disruption management using MILP.
+
+## 👩‍⚕️ Nurse Scheduling
+Built a scheduling system using OR-Tools CP-SAT.
+
+## 📊 Transport Systems Analysis
+Worked on optimization problems related to transportation systems.
+
+---
+
+# 📈 GitHub Stats
+
+![Sadaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadafmaqbool074-bot&show_icons=true&theme=tokyonight)
+
+---
+
+# 🌍 Connect With Me
+
+
+- Email: sadafmaqbool074@gmail.com
+
 
